@@ -1,0 +1,12 @@
+name: "Qgiv"
+description: "Qgiv is an online fundraising and donor management platform for nonprofits. It supports text-to-donate, auctions, event registration, and recurring giving."
+source_url: "https://www.qgiv.com/"
+category: "Online Fundraising"
+tags:
+  - "paid"
+  - "fundraising"
+  - "text-to-donate"
+  - "auctions"
+icon_url: "https://icons.duckduckgo.com/ip3/www.qgiv.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.qgiv.com/>\n"
+updated_at: "2026-11-22 05:11"

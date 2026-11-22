@@ -1,0 +1,12 @@
+name: "Donorbox"
+description: "Donorbox is an online donation and fundraising platform for nonprofits, churches, and political campaigns. It supports recurring donations, crowdfunding, and text-to-give."
+source_url: "https://donorbox.org/"
+category: "Online Fundraising"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "fundraising"
+  - "recurring-donations"
+icon_url: "https://icons.duckduckgo.com/ip3/donorbox.org.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://donorbox.org/>\n"
+updated_at: "2026-11-22 05:11"

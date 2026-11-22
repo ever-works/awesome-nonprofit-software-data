@@ -1,0 +1,12 @@
+name: "SuiteCRM"
+description: "SuiteCRM is an open-source customer relationship management platform forked from SugarCRM. It can be self-hosted and customized for nonprofit donor management."
+source_url: "https://suitecrm.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "crm"
+  - "donor-management"
+icon_url: "https://icons.duckduckgo.com/ip3/suitecrm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://suitecrm.com/>\n- Repository: <https://github.com/salesagility/SuiteCRM>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-22 05:11"

@@ -1,0 +1,62 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: donor-management
+  name: "Donor Management"
+- id: membership
+  name: "Membership"
+- id: fundraising
+  name: "Fundraising"
+- id: prospect-research
+  name: "Prospect Research"
+- id: online-giving
+  name: "Online Giving"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: peer-to-peer
+  name: "Peer-to-Peer"
+- id: recurring-donations
+  name: "Recurring Donations"
+- id: small-nonprofit
+  name: "Small Nonprofit"
+- id: free
+  name: "Free"
+- id: event-ticketing
+  name: "Event Ticketing"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: civicrm
+  name: "CiviCRM"
+- id: volunteer-management
+  name: "Volunteer Management"
+- id: scheduling
+  name: "Scheduling"
+- id: events
+  name: "Events"
+- id: text-to-donate
+  name: "Text-to-Donate"
+- id: auctions
+  name: "Auctions"
+- id: recruitment
+  name: "Recruitment"
+- id: enterprise
+  name: "Enterprise"
+- id: grant-management
+  name: "Grant Management"
+- id: foundations
+  name: "Foundations"
+- id: scholarships
+  name: "Scholarships"
+- id: award-tracking
+  name: "Award Tracking"
+- id: erp
+  name: "ERP"
+- id: crm
+  name: "CRM"
+- id: accounting
+  name: "Accounting"

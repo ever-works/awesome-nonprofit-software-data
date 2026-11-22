@@ -1,0 +1,12 @@
+- id: donor-management-and-nonprofit-crm
+  name: "Donor Management & Nonprofit CRM"
+- id: online-fundraising
+  name: "Online Fundraising"
+- id: volunteer-management
+  name: "Volunteer Management"
+- id: grant-management
+  name: "Grant Management"
+- id: nonprofit-accounting
+  name: "Nonprofit Accounting"
+- id: open-source
+  name: "Open Source"

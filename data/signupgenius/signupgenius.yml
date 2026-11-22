@@ -1,0 +1,12 @@
+name: "SignUpGenius"
+description: "SignUpGenius is an online sign-up and volunteer coordination tool used by nonprofits, schools, and churches. It offers free and paid plans for scheduling and event management."
+source_url: "https://www.signupgenius.com/"
+category: "Volunteer Management"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "volunteer-management"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/www.signupgenius.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.signupgenius.com/>\n"
+updated_at: "2026-11-22 05:11"

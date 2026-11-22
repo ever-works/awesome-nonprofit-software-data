@@ -1,0 +1,12 @@
+name: "Givebutter"
+description: "Givebutter is an online fundraising platform offering free tools for nonprofits to collect donations, sell tickets, and run campaigns. Revenue comes from optional donor tips and processing fees."
+source_url: "https://givebutter.com/"
+category: "Online Fundraising"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "fundraising"
+  - "peer-to-peer"
+icon_url: "https://icons.duckduckgo.com/ip3/givebutter.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://givebutter.com/>\n"
+updated_at: "2026-11-22 05:11"

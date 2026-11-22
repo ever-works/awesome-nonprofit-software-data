@@ -1,0 +1,12 @@
+name: "Neon CRM"
+description: "Neon CRM is a cloud-based donor and membership management system for nonprofits. It includes fundraising, event management, and marketing automation features."
+source_url: "https://neoncrm.com/"
+category: "Donor Management & Nonprofit CRM"
+tags:
+  - "paid"
+  - "api"
+  - "donor-management"
+  - "membership"
+icon_url: "https://icons.duckduckgo.com/ip3/neoncrm.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://neoncrm.com/>\n"
+updated_at: "2026-11-22 05:11"

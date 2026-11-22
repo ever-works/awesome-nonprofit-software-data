@@ -1,0 +1,12 @@
+name: "Fluxx"
+description: "Fluxx is grant management software for foundations and corporate giving programs. It manages the grant lifecycle from application to reporting and payments."
+source_url: "https://www.fluxx.io/"
+category: "Grant Management"
+tags:
+  - "paid"
+  - "enterprise"
+  - "grant-management"
+  - "foundations"
+icon_url: "https://icons.duckduckgo.com/ip3/www.fluxx.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.fluxx.io/>\n"
+updated_at: "2026-11-22 05:11"

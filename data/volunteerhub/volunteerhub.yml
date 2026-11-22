@@ -1,0 +1,12 @@
+name: "VolunteerHub"
+description: "VolunteerHub is cloud-based volunteer management software for nonprofits and government agencies. It automates recruitment, scheduling, and hour tracking."
+source_url: "https://www.volunteerhub.com/"
+category: "Volunteer Management"
+tags:
+  - "paid"
+  - "volunteer-management"
+  - "scheduling"
+  - "recruitment"
+icon_url: "https://icons.duckduckgo.com/ip3/www.volunteerhub.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.volunteerhub.com/>\n"
+updated_at: "2026-11-22 05:11"
