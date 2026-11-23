@@ -1,0 +1,63 @@
+name: DonorSnap
+description: DonorSnap is a cloud-based donor management and fundraising
+  software designed for nonprofit organizations. It offers donor management,
+  donation tracking, email marketing, analytics and reporting, volunteer
+  management, and mobile app access, with pricing tiered by number of contact
+  records.
+source_url: https://www.donorsnap.com/
+category: Online Fundraising
+tags:
+  - Paid
+  - API
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DonorSnap is a cloud-based donor management and fundraising software specially
+  designed for non-profit organizations to optimize their fundraising
+  operations.
+
+
+  ## Features
+
+
+  - Online donations forms
+
+  - Donor management
+
+  - Fundraising campaign management
+
+  - Email marketing
+
+  - Reporting and analytics
+
+  - Integration
+
+  - Mobile app
+
+  - Volunteer Management
+
+
+  ## Pricing
+
+
+  - Up to 1,000 Contacts: $39 per month
+
+  - Up to 2,500 Contacts: $59 per month
+
+  - Up to 5,000 Contacts: $79 per month
+
+  - Up to 10,000 Contacts: $99 per month
+
+  - Up to 30,000 Contacts: $199 per month
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: DonorSnap
+images: []
+updated_at: 2026-11-23 03:20

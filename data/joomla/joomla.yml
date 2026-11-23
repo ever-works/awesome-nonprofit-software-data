@@ -1,0 +1,53 @@
+name: Joomla!
+description: An award-winning free and open source CMS. Provides content
+  management, user management, and extension extensibility for nonprofit
+  websites.
+source_url: https://www.joomla.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - cms
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Joomla! is a free and open-source content management system (CMS) for
+  publishing web content. It provides content management, user management,
+  templates, and extension extensibility for nonprofit websites.
+
+
+  ## Key Features
+
+
+  - Content management
+
+  - User management
+
+  - Templates and extensions
+
+  - Multilingual support
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU General Public License v2.
+
+
+  ## License
+
+
+  GNU General Public License v2 (GPLv2)
+
+
+  ## Repository
+
+
+  https://github.com/joomla/joomla-cms
+brand: Joomla
+images: []
+updated_at: 2026-11-23 03:20

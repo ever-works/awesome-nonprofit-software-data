@@ -1,0 +1,57 @@
+name: OneCause
+description: OneCause is a fundraising platform that specializes in events and
+  auctions. Nonprofit fundraisers can use the tool to support ticketing, mobile
+  bidding, virtual fundraising, donation forms, and online giving sites.
+source_url: https://onecause.com/
+category: Online Fundraising
+tags:
+  - paid
+  - cloud
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OneCause is a fundraising platform that specializes in events and auctions.
+
+
+  ## Features
+
+
+  - Event ticketing and registration
+
+  - QR code check-ins
+
+  - Auction item gallery
+
+  - Competitive bidding
+
+  - Scorecards and slideshows
+
+  - Real-time analytics
+
+
+  ## Pricing
+
+
+  OneCause's pricing is available on a per-quote basis, with different plans
+  based on your specific goals and needs.
+
+
+  ## Integrations
+
+
+  - DonorDock
+
+  - Double the Donation
+
+  - Virtuous
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS platform.
+brand: OneCause
+updated_at: 2026-11-23 03:20

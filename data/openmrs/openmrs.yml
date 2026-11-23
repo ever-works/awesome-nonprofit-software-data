@@ -1,0 +1,54 @@
+name: OpenMRS
+description: Free and open-source medical record system. Provides electronic
+  medical records (EMR) functionality for healthcare organizations in
+  resource-constrained environments, particularly in developing countries.
+source_url: https://openmrs.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - healthcare
+  - medical-records
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenMRS is a free and open-source medical record system (EMR/EHR platform). It
+  provides electronic medical records functionality for healthcare organizations
+  in resource-constrained environments, particularly in developing countries.
+
+
+  ## Key Features
+
+
+  - Electronic medical records
+
+  - Patient management
+
+  - Clinical workflows
+
+  - Modular architecture
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source under the Mozilla Public License 2.0.
+
+
+  ## License
+
+
+  Mozilla Public License 2.0 (MPL 2.0)
+
+
+  ## Repository
+
+
+  https://github.com/openmrs
+brand: OpenMRS
+images: []
+updated_at: 2026-11-23 03:20

@@ -1,0 +1,49 @@
+name: HumHub
+description: Semi open-source social intranet software. Provides social
+  networking, collaboration, and communication tools for organizations including
+  nonprofits and NGOs.
+source_url: https://www.humhub.org/en
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - social-intranet
+  - collaboration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HumHub is semi open-source social intranet software. It provides social
+  networking, collaboration, and communication tools for organizations including
+  nonprofits and NGOs.
+
+
+  ## Key Features
+
+
+  - Social networking for organizations
+
+  - Activity streams
+
+  - Spaces and groups
+
+  - File sharing
+
+  - Open source core (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source core. Paid cloud hosting and enterprise options
+  available.
+
+
+  ## License
+
+
+  Open source
+brand: HumHub
+images: []
+updated_at: 2026-11-23 03:20

@@ -1,0 +1,55 @@
+name: Jitsi
+description: Jitsi is a set of open-source projects that allows you to easily
+  build and deploy secure videoconferencing solutions. Provides encrypted video
+  conferencing with screen sharing and meeting recording capabilities.
+source_url: https://jitsi.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - video-conferencing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Jitsi is a set of open-source projects that allows teams to easily build and
+  deploy secure videoconferencing solutions. It provides encrypted video
+  conferencing, screen sharing, meeting recording, and streaming capabilities.
+
+
+  ## Key Features
+
+
+  - Secure video conferencing
+
+  - Screen sharing
+
+  - Meeting recording
+
+  - Live streaming
+
+  - End-to-end encryption
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache License 2.0.
+
+
+  ## License
+
+
+  Apache License 2.0
+
+
+  ## Repository
+
+
+  https://github.com/jitsi
+brand: Jitsi
+images: []
+updated_at: 2026-11-23 03:20

@@ -1,0 +1,55 @@
+name: LibreOffice
+description: Full, open source office suite. Provides word processing,
+  spreadsheets, presentations, drawings, and database tools for nonprofit
+  organizations as a free alternative to proprietary office software.
+source_url: https://www.libreoffice.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - office-suite
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LibreOffice is a full, open-source office suite providing word processing,
+  spreadsheets, presentations, drawings, and database tools for nonprofit
+  organizations as a free alternative to proprietary office software.
+
+
+  ## Key Features
+
+
+  - Writer (word processing)
+
+  - Calc (spreadsheets)
+
+  - Impress (presentations)
+
+  - Draw (vector graphics)
+
+  - Base (database)
+
+  - Open source (self-hosted/desktop)
+
+
+  ## Pricing
+
+
+  Free and open-source under the Mozilla Public License 2.0.
+
+
+  ## License
+
+
+  Mozilla Public License 2.0 (MPL 2.0)
+
+
+  ## Repository
+
+
+  https://git.libreoffice.org/
+brand: LibreOffice
+images: []
+updated_at: 2026-11-23 03:20

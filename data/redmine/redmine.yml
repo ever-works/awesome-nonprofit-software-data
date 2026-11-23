@@ -1,0 +1,55 @@
+name: Redmine
+description: Fully-featured, free and open-source project management software
+  written in Ruby on Rails. Provides project tracking, issue management, Gantt
+  charts, and calendar functionality for teams.
+source_url: https://www.redmine.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - project-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Redmine is a fully-featured, free and open-source project management software
+  written in Ruby on Rails. It provides flexible project tracking, issue
+  management, Gantt charts, and calendar functionality for teams.
+
+
+  ## Key Features
+
+
+  - Multiple projects and subprojects
+
+  - Issue tracking and workflow customization
+
+  - Gantt charts and calendar
+
+  - Time tracking
+
+  - Role-based access control
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU General Public License v2.
+
+
+  ## License
+
+
+  GNU General Public License v2 (GPLv2)
+
+
+  ## Repository
+
+
+  https://www.redmine.org/
+brand: Redmine
+images: []
+updated_at: 2026-11-23 03:20

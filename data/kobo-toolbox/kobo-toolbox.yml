@@ -1,0 +1,55 @@
+name: KoBoToolbox
+description: Open source data collection toolset designed for humanitarian and
+  development contexts. Enables field data collection, management, and
+  visualization for NGOs and nonprofits operating in challenging environments.
+source_url: https://www.kobotoolbox.org/
+category: Open Source
+tags:
+  - open-source
+  - data-collection
+  - self-hosted
+  - nonprofit
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KoBoToolbox is an open-source data collection toolset designed for
+  humanitarian and development contexts. It enables organizations to collect,
+  manage, and visualize data in the field, particularly useful for NGOs and
+  nonprofits.
+
+
+  ## Key Features
+
+
+  - Mobile and web-based data collection
+
+  - Offline data collection capability
+
+  - Data visualization and export
+
+  - Survey design and deployment
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## License
+
+
+  Open source (Affero General Public License v3)
+
+
+  ## Repository
+
+
+  https://github.com/kobotoolbox
+brand: KoBoToolbox
+images: []
+updated_at: 2026-11-23 03:20

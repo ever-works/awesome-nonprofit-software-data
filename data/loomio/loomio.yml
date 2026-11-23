@@ -1,0 +1,53 @@
+name: Loomio
+description: Free and open-source collaborative decision making and forum
+  software. Enables teams and organizations to discuss, make decisions, and keep
+  records of discussions in a transparent way.
+source_url: https://www.loomio.org/
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - collaboration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Loomio is free and open-source collaborative decision making and forum
+  software. It enables teams and organizations to discuss proposals, make
+  decisions, and keep records of discussions in a transparent way.
+
+
+  ## Key Features
+
+
+  - Collaborative decision making
+
+  - Discussion forums
+
+  - Proposal and voting tools
+
+  - Decision recording
+
+  - Open source (self-hosted)
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU Affero General Public License v3.
+
+
+  ## License
+
+
+  GNU Affero General Public License v3 (AGPLv3)
+
+
+  ## Repository
+
+
+  https://github.com/loomio/loomio
+brand: Loomio
+images: []
+updated_at: 2026-11-23 03:20

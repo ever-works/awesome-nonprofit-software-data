@@ -1,0 +1,47 @@
+name: Fundly
+description: Fundly is a crowdfunding platform that enables individuals and
+  organizations to create online fundraising campaigns for a variety of causes,
+  including medical expenses, education, and community projects. It provides
+  social media integration, donation tracking, and donor communication features.
+source_url: https://www.fundly.com/
+category: Online Fundraising
+tags:
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Fundly is a crowdfunding platform that grants individuals and entities the
+  capacity to curate online campaigns for a diverse range of causes, including
+  medical expenses, education, and community-based projects.
+
+
+  ## Features
+
+
+  - Volunteer interest form widget
+
+  - Donation widget
+
+  - Social sharing
+
+  - Pledge campaigns (add-on)
+
+  - Sterling volunteers integration
+
+
+  ## Pricing
+
+
+  Custom pricing
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: Fundly
+images: []
+updated_at: 2026-11-23 03:20
