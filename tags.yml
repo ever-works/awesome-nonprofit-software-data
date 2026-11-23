@@ -1,62 +1,202 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: API
 - id: donor-management
-  name: "Donor Management"
+  name: Donor Management
 - id: membership
-  name: "Membership"
+  name: Membership
 - id: fundraising
-  name: "Fundraising"
+  name: Fundraising
 - id: prospect-research
-  name: "Prospect Research"
+  name: Prospect Research
 - id: online-giving
-  name: "Online Giving"
+  name: Online Giving
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: peer-to-peer
-  name: "Peer-to-Peer"
+  name: Peer-to-Peer
 - id: recurring-donations
-  name: "Recurring Donations"
+  name: Recurring Donations
 - id: small-nonprofit
-  name: "Small Nonprofit"
+  name: Small Nonprofit
 - id: free
-  name: "Free"
+  name: Free
 - id: event-ticketing
-  name: "Event Ticketing"
+  name: Event Ticketing
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: civicrm
-  name: "CiviCRM"
+  name: CiviCRM
 - id: volunteer-management
-  name: "Volunteer Management"
+  name: Volunteer Management
 - id: scheduling
-  name: "Scheduling"
+  name: Scheduling
 - id: events
-  name: "Events"
+  name: Events
 - id: text-to-donate
-  name: "Text-to-Donate"
+  name: Text-to-Donate
 - id: auctions
-  name: "Auctions"
+  name: Auctions
 - id: recruitment
-  name: "Recruitment"
+  name: Recruitment
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: grant-management
-  name: "Grant Management"
+  name: Grant Management
 - id: foundations
-  name: "Foundations"
+  name: Foundations
 - id: scholarships
-  name: "Scholarships"
+  name: Scholarships
 - id: award-tracking
-  name: "Award Tracking"
+  name: Award Tracking
 - id: erp
-  name: "ERP"
+  name: Erp
 - id: crm
-  name: "CRM"
+  name: CRM
 - id: accounting
-  name: "Accounting"
+  name: Accounting
+- id: nonprofit-management
+  name: Nonprofit Management
+- id: ai-powered
+  name: AI Powered
+- id: cloud
+  name: Cloud
+- id: church-management
+  name: Church Management
+- id: text-giving
+  name: Text Giving
+- id: event-registration
+  name: Event Registration
+- id: churches
+  name: Churches
+- id: land-rights
+  name: Land Rights
+- id: data-collection
+  name: Data Collection
+- id: design
+  name: Design
+- id: nonprofit-discount
+  name: Nonprofit Discount
+- id: case-management
+  name: Case Management
+- id: wordpress
+  name: WordPress
+- id: donation-forms
+  name: Donation Forms
+- id: salesforce-integration
+  name: Salesforce Integration
+- id: participatory-budgeting
+  name: Participatory Budgeting
+- id: civic-tech
+  name: Civic Tech
+- id: participatory-democracy
+  name: Participatory Democracy
+- id: communication
+  name: Communication
+- id: chat
+  name: Chat
+- id: salesforce
+  name: Salesforce
+- id: multi-currency
+  name: Multi Currency
+- id: donation-allocation
+  name: Donation Allocation
+- id: cms
+  name: Cms
+- id: text-to-give
+  name: Text To Give
+- id: mobile-giving
+  name: Mobile Giving
+- id: social-intranet
+  name: Social Intranet
+- id: email-marketing
+  name: Email Marketing
+- id: automation
+  name: Automation
+- id: geospatial
+  name: Geospatial
+- id: mapping
+  name: Mapping
+- id: project-management
+  name: Project Management
+- id: donation-kiosks
+  name: Donation Kiosks
+- id: analytics
+  name: Analytics
+- id: web-analytics
+  name: Web Analytics
+- id: healthcare
+  name: Healthcare
+- id: hospital-management
+  name: Hospital Management
+- id: collaboration
+  name: Collaboration
+- id: video-conferencing
+  name: Video Conferencing
+- id: print-on-demand
+  name: Print On Demand
+- id: nonprofit
+  name: Nonprofit
+- id: office-suite
+  name: Office Suite
+- id: humanitarian
+  name: Humanitarian
+- id: volunteer
+  name: Volunteer
+- id: messaging
+  name: Messaging
+- id: microsoft-365
+  name: Microsoft 365
+- id: cloud-storage
+  name: Cloud Storage
+- id: cloud-based
+  name: Cloud Based
+- id: medical-records
+  name: Medical Records
+- id: saas
+  name: Saas
+- id: hipaa-compliant
+  name: Hipaa Compliant
+- id: multilingual
+  name: Multilingual
+- id: payroll
+  name: Payroll
+- id: sponsorship
+  name: Sponsorship
+- id: mobile-access
+  name: Mobile Access
+- id: disaster-management
+  name: Disaster Management
+- id: desktop-publishing
+  name: Desktop Publishing
+- id: cloud-native
+  name: Cloud Native
+- id: financial-management
+  name: Financial Management
+- id: kiosk-giving
+  name: Kiosk Giving
+- id: social-media
+  name: Social Media
+- id: impact-measurement
+  name: Impact Measurement
+- id: data
+  name: Data
+- id: membership-management
+  name: Membership Management
+- id: fund-management
+  name: Fund Management
+- id: donation-management
+  name: Donation Management
+- id: event-management
+  name: Event Management
+- id: crowdsourcing
+  name: Crowdsourcing
+- id: conservation
+  name: Conservation
+- id: research
+  name: Research

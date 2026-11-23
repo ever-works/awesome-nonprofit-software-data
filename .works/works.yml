@@ -5,16 +5,60 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome Nonprofit Software
-initial_prompt: "A curated directory of donor CRM, fundraising, volunteer and
-  grant-management software for nonprofits. Include products such as Bloomerang,
-  Neon CRM, Salesforce Nonprofit Cloud, Blackbaud Raiser's Edge NXT,
-  DonorPerfect, Givebutter, Donorbox, GoFundMe Pro, Little Green Light, Zeffy,
-  CiviCRM, Better Impact, plus other notable commercial and open-source options.
-  Categories: Donor Management & Nonprofit CRM, Online Fundraising, Volunteer
-  Management, Grant Management, Nonprofit Accounting, Open Source. For every
-  item capture the official website, a short factual description, pricing model
-  (free, freemium, paid, open source), deployment (cloud or self-hosted), key
-  features and integrations."
+initial_prompt: >-
+  A curated directory of donor CRM, fundraising, volunteer and grant-management
+  software for nonprofits. Include products such as Bloomerang, Neon CRM,
+  Salesforce Nonprofit Cloud, Blackbaud Raiser's Edge NXT, DonorPerfect,
+  Givebutter, Donorbox, GoFundMe Pro, Little Green Light, Zeffy, CiviCRM, Better
+  Impact, plus other notable commercial and open-source options. Categories:
+  Donor Management & Nonprofit CRM, Online Fundraising, Volunteer Management,
+  Grant Management, Nonprofit Accounting, Open Source. For every item capture
+  the official website, a short factual description, pricing model (free,
+  freemium, paid, open source), deployment (cloud or self-hosted), key features
+  and integrations.
+
+
+  Initial categories: Donor Management & Nonprofit CRM; Online Fundraising;
+  Volunteer Management; Grant Management; Nonprofit Accounting; Open Source.
+
+  Target keywords: nonprofit software, donor management software, fundraising
+  software, nonprofit crm.
+
+
+  Start with these source lists (use the raw README link for GitHub lists):
+
+  - https://www.softwaresuggest.com/nonprofit-software
+
+  - https://www.softwaresuggest.com/donor-management-software
+
+  - https://www.softwaresuggest.com/fundraising-software
+
+  - https://www.softwaresuggest.com/nonprofit-crm-software
+
+  - https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md
+
+  - https://github.com/topics/nonprofit
+
+
+  Inclusion rules: every item is a real product, service, open-source project or
+  platform in scope; never a statistic, quote, blog post, person or general
+  concept.
+
+  One item per product. The item URL is the official website (never an affiliate
+  link, review-site page or "top 10" article). Skip discontinued products and
+  sites that no longer resolve.
+
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for
+  open source state the license and link the repository.
+
+  Each item gets exactly one primary category from the initial categories; do
+  not create near-duplicate categories.
+
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid,
+  Enterprise, API, AI-Powered, plus niche-specific ones.
+
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt,
+  SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-nonprofit-software-website
 company_website: https://nonprofits.ever.works
 settings:
@@ -32,8 +76,131 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Nonprofit Software
+    prompt: >-
+      A curated directory of donor CRM, fundraising, volunteer and
+      grant-management software for nonprofits. Include products such as
+      Bloomerang, Neon CRM, Salesforce Nonprofit Cloud, Blackbaud Raiser's Edge
+      NXT, DonorPerfect, Givebutter, Donorbox, GoFundMe Pro, Little Green Light,
+      Zeffy, CiviCRM, Better Impact, plus other notable commercial and
+      open-source options. Categories: Donor Management & Nonprofit CRM, Online
+      Fundraising, Volunteer Management, Grant Management, Nonprofit Accounting,
+      Open Source. For every item capture the official website, a short factual
+      description, pricing model (free, freemium, paid, open source), deployment
+      (cloud or self-hosted), key features and integrations.
+
+
+      Initial categories: Donor Management & Nonprofit CRM; Online Fundraising;
+      Volunteer Management; Grant Management; Nonprofit Accounting; Open Source.
+
+      Target keywords: nonprofit software, donor management software,
+      fundraising software, nonprofit crm.
+
+
+      Start with these source lists (use the raw README link for GitHub lists):
+
+      - https://www.softwaresuggest.com/nonprofit-software
+
+      - https://www.softwaresuggest.com/donor-management-software
+
+      - https://www.softwaresuggest.com/fundraising-software
+
+      - https://www.softwaresuggest.com/nonprofit-crm-software
+
+      - https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md
+
+      - https://github.com/topics/nonprofit
+
+
+      Inclusion rules: every item is a real product, service, open-source
+      project or platform in scope; never a statistic, quote, blog post, person
+      or general concept.
+
+      One item per product. The item URL is the official website (never an
+      affiliate link, review-site page or "top 10" article). Skip discontinued
+      products and sites that no longer resolve.
+
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for
+      open source state the license and link the repository.
+
+      Each item gets exactly one primary category from the initial categories;
+      do not create near-duplicate categories.
+
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium,
+      Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt,
+      SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: >-
+    A curated directory of donor CRM, fundraising, volunteer and
+    grant-management software for nonprofits. Include products such as
+    Bloomerang, Neon CRM, Salesforce Nonprofit Cloud, Blackbaud Raiser's Edge
+    NXT, DonorPerfect, Givebutter, Donorbox, GoFundMe Pro, Little Green Light,
+    Zeffy, CiviCRM, Better Impact, plus other notable commercial and open-source
+    options. Categories: Donor Management & Nonprofit CRM, Online Fundraising,
+    Volunteer Management, Grant Management, Nonprofit Accounting, Open Source.
+    For every item capture the official website, a short factual description,
+    pricing model (free, freemium, paid, open source), deployment (cloud or
+    self-hosted), key features and integrations.
+
+
+    Initial categories: Donor Management & Nonprofit CRM; Online Fundraising;
+    Volunteer Management; Grant Management; Nonprofit Accounting; Open Source.
+
+    Target keywords: nonprofit software, donor management software, fundraising
+    software, nonprofit crm.
+
+
+    Start with these source lists (use the raw README link for GitHub lists):
+
+    - https://www.softwaresuggest.com/nonprofit-software
+
+    - https://www.softwaresuggest.com/donor-management-software
+
+    - https://www.softwaresuggest.com/fundraising-software
+
+    - https://www.softwaresuggest.com/nonprofit-crm-software
+
+    - https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md
+
+    - https://github.com/topics/nonprofit
+
+
+    Inclusion rules: every item is a real product, service, open-source project
+    or platform in scope; never a statistic, quote, blog post, person or general
+    concept.
+
+    One item per product. The item URL is the official website (never an
+    affiliate link, review-site page or "top 10" article). Skip discontinued
+    products and sites that no longer resolve.
+
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for
+    open source state the license and link the repository.
+
+    Each item gets exactly one primary category from the initial categories; do
+    not create near-duplicate categories.
+
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid,
+    Enterprise, API, AI-Powered, plus niche-specific ones.
+
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt,
+    SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free

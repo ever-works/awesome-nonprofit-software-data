@@ -1,12 +1,65 @@
-- url: "https://www.softwaresuggest.com/nonprofit-software"
-  title: "SoftwareSuggest — Nonprofit software"
-- url: "https://www.softwaresuggest.com/donor-management-software"
-  title: "SoftwareSuggest — Donor Management Software"
-- url: "https://www.softwaresuggest.com/fundraising-software"
-  title: "SoftwareSuggest — Fundraising software"
-- url: "https://www.softwaresuggest.com/nonprofit-crm-software"
-  title: "SoftwareSuggest — Nonprofit CRM Software"
-- url: "https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md"
-  title: "GitHub list — thiras/awesome-ngo (116★, stale)"
-- url: "https://github.com/topics/nonprofit"
-  title: "GitHub topic — `nonprofit` (1,886 repos)"
+- url: https://github.com/topics/nonprofit
+  normalized_url: https://github.com/topics/nonprofit
+  first_seen_at: 2026-11-23T03:13:27.781Z
+  last_attempted_at: 2026-11-23T03:13:27.781Z
+  last_success_at: 2026-11-23T03:13:27.781Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://givebutter.com
+  normalized_url: https://givebutter.com/
+  first_seen_at: 2026-11-23T03:14:00.037Z
+  last_attempted_at: 2026-11-23T03:14:00.037Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://givebutter.com"
+- url: https://givebutter.com/blog/nonprofit-software
+  normalized_url: https://givebutter.com/blog/nonprofit-software
+  first_seen_at: 2026-11-23T03:18:47.185Z
+  last_attempted_at: 2026-11-23T03:18:47.185Z
+  last_success_at: 2026-11-23T03:18:47.185Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/thiras/awesome-ngo/HEAD/README.md
+  first_seen_at: 2026-11-23T03:09:38.871Z
+  last_attempted_at: 2026-11-23T03:09:38.871Z
+  last_success_at: 2026-11-23T03:09:38.871Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/donor-management-software
+  normalized_url: https://www.softwaresuggest.com/donor-management-software
+  first_seen_at: 2026-11-23T03:04:44.234Z
+  last_attempted_at: 2026-11-23T03:04:44.234Z
+  last_success_at: 2026-11-23T03:04:44.234Z
+  status: success
+  items_created: 16
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/fundraising-software
+  normalized_url: https://www.softwaresuggest.com/fundraising-software
+  first_seen_at: 2026-11-23T03:05:13.425Z
+  last_attempted_at: 2026-11-23T03:05:13.425Z
+  last_success_at: 2026-11-23T03:05:13.425Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/nonprofit-crm-software
+  normalized_url: https://www.softwaresuggest.com/nonprofit-crm-software
+  first_seen_at: 2026-11-23T03:05:33.512Z
+  last_attempted_at: 2026-11-23T03:05:33.512Z
+  last_success_at: 2026-11-23T03:05:33.512Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/nonprofit-software
+  normalized_url: https://www.softwaresuggest.com/nonprofit-software
+  first_seen_at: 2026-11-23T02:59:49.579Z
+  last_attempted_at: 2026-11-23T02:59:49.579Z
+  last_success_at: 2026-11-23T02:59:49.579Z
+  status: success
+  items_created: 11
+  pipeline: agent-pipeline
